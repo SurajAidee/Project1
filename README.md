@@ -1,4 +1,4 @@
 # Project1
 This is my first Git Repository.
 <br>
-Author - Suraj Aidee
+Author - Suraj Aidee (Student)
